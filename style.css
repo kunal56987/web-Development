@@ -1,0 +1,97 @@
+   
+        ul{
+            
+            
+            list-style-type: none;
+            background-image: linear-gradient(45deg,rgb(64, 144, 168),rgb(102, 178, 228));
+            border-radius: 5px;
+        }
+        li{
+            display: inline-block;
+            padding: 20px;
+            color: white;
+            font-size: 25px;
+        }
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        #navbar{
+            height: 40px;
+        }
+        #button{
+            height: 30px;
+            width: 250px;
+            border-radius: 10px;
+            text-align: left;
+            background-image: linear-gradient(45deg,rgb(218, 218, 233),rgb(12, 135, 192));
+            font-size: 20px;
+
+        }
+        a:hover{
+            background-image: linear-gradient(90deg,gray,rgb(223, 218, 218));
+            border-radius: 10px;
+        }
+        #image{
+            width: 100%;
+        }
+        .container{
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+        .mid-lest{
+            position: absolute;
+            top: 50%;
+            left: 5%;
+            color: rgb(19, 66, 194);
+            font-size: 40px;
+            text-shadow: 4px 4px 6px rgb(87, 90, 241);
+            font-style: italic;
+        }
+        .centred{
+            position: absolute;
+            top: 60%;
+            left: 5%;
+            color: rgb(19, 66, 194) ;
+            font-size: 25px;
+            font-style: italic;
+          
+            text-shadow: 4px 4px 6px rgb(87, 90, 241);
+        }
+        #div{
+            
+            padding: 15px;
+            margin: 15px;
+            text-align: center;
+            display: inline-block;
+        }
+        #id1,#id3{
+            background-image: linear-gradient(90deg,rgb(65, 194, 245),rgb(192, 226, 245));
+        }
+        #id2,#id4{
+            background-image: linear-gradient(90deg,rgb(19, 74, 224),rgb(168, 167, 248));
+        }
+       #why{
+           left: 15%;
+           background-image: linear-gradient(45deg,gray,white);
+           text-align: left;
+    
+        }
+        h2{
+            color: rgb(17, 87, 192);
+        }
+        #blog1,#blog2{
+            width: 200px;
+        }
+        body{
+            background-image: linear-gradient(45deg,rgb(231, 213, 213),rgb(228, 228, 228));
+        }
+        caption{
+            font-size: 40px;
+        }
+        table.center{
+            margin-left: auto;
+            margin-right: auto;
+
+        }
